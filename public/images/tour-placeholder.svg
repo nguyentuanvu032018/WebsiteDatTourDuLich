@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Ảnh tour VivuTour">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff3cd"/><stop offset="1" stop-color="#f59f00"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#g)"/>
+  <circle cx="960" cy="150" r="75" fill="#fff" opacity=".75"/>
+  <path d="M0 560 235 330 430 505 635 250 875 520 1045 375 1200 535V720H0Z" fill="#1f7a5b" opacity=".82"/>
+  <path d="M0 630 290 445 520 610 745 405 980 610 1200 480V720H0Z" fill="#155d46" opacity=".9"/>
+  <text x="72" y="120" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#3d2b00">VivuTour</text>
+  <text x="75" y="180" font-family="Arial,sans-serif" font-size="32" fill="#5f4600">Vi vu trọn vẹn</text>
+</svg>
